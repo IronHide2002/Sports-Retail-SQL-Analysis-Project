@@ -121,9 +121,8 @@ The project demonstrates advanced SQL capabilities:
 
 ## 🛠️ Technical Requirements
 
-- **Database**: MySQL/MariaDB
-- **Skills**: Intermediate to Advanced SQL
-- **Features**: Supports complex joins, CTEs, and window functions
+- **Database**: MySQL
+- MySQL Workbench
 
 ## 📊 Data Quality
 
@@ -131,6 +130,7 @@ The project demonstrates advanced SQL capabilities:
 - **Data Completeness**: >95% for most columns
 - **Missing Data**: Only `last_visited` column has >5% missing values
 - **Data Types**: Proper handling of numeric, string, and timestamp data
+
 
 ## 🔍 Usage Examples
 
@@ -159,11 +159,3 @@ JOIN info i ON f.product_id = i.product_id
 ORDER BY f.revenue DESC
 LIMIT 5;
 ```
-
-## 📞 Support
-
-This project provides comprehensive analysis of sports retail data with actionable insights for business decision-making. Each query is well-documented and can be modified for specific business needs.
-
----
-
-*Built with advanced SQL techniques for comprehensive retail analytics*
