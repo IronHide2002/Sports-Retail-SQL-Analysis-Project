@@ -86,3 +86,5 @@ DESCRIBE info;
 DESCRIBE reviews;
 DESCRIBE traffic;
 DESCRIBE brands;
+
+https://claude.ai/share/b561de1d-61ca-43c8-a539-3053e269fa85
